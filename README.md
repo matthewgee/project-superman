@@ -20,4 +20,5 @@ This is a list of things
 
 - Anushka Anand
 - Alan Fritzler
+- Lauren Haynes
 
