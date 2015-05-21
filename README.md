@@ -20,7 +20,5 @@ This is a list of things
 
 - Anushka Anand
 - Alan Fritzler
-=======
 
-this is jiberish
-
+this is a dummy line
