@@ -18,7 +18,7 @@ This is a list of things
 
 ##Collaborators
 
--Anushka Anand
+- Anushka Anand
 
 
 
