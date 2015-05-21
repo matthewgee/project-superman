@@ -20,8 +20,4 @@ This is a list of things
 
 - Anushka Anand
 - Alan Fritzler
-=======
-
->>>>>>> 5f14cc720caf954f5027aa96dc0fb2790c435443
-
 
